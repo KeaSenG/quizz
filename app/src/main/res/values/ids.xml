@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="CardA" type="id" />
+    <item name="CardB" type="id" />
+    <item name="CardC" type="id" />
+    <item name="CardD" type="id" />
+</resources>
